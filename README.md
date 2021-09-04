@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end and back-end development.
 - 🌱 I’m currently learning OpenCV, JavaScript, Advanced CSS, C#.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at www.linkedin.com/in/prakash06
 
 <!---
 prakash-creates/prakash-creates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
